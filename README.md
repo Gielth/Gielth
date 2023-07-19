@@ -4,9 +4,9 @@
    <a href="https://github.com/Gielth">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gielth&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gielth&layout=compact&langs_count=6&theme=neon"/>
-   <img height="122em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gielth&repo=frontendmentor_age_calculator&layout=compact&langs_count=6&theme=codeSTACKr"/>
-   <img height="122em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gielth&repo=jogo-da-velha-DIO&layout=compact&langs_count=6&theme=neon"/>
-   <img height="138em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gielth&repo=Trabalho_Curadoria_Digital&layout=compact&langs_count=6&theme=codeSTACKr"/>
+   <img height="122em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gielth&repo=frontendmentor_age_calculator&layout=compact&langs_count=6&theme=codeSTACKr" href="https://github.com/Gielth/frontendmentor_age_calculator"/>
+   <img height="122em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gielth&repo=jogo-da-velha-DIO&layout=compact&langs_count=6&theme=neon" href="https://github.com/Gielth/jogo-da-velha-DIO"/>
+   <img height="138em" src="https://github-readme-stats.vercel.app/api/pin/?username=Gielth&repo=Trabalho_Curadoria_Digital&layout=compact&langs_count=6&theme=codeSTACKr" href="https://github.com/Gielth/Trabalho_Curadoria_Digital"/>
 
 </div>
 <div style="display: inline_block"><br>
