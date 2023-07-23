@@ -17,7 +17,7 @@ https://github.com/Gielth/frontendmentor-rock-paper-scissors
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pode me encontrar nas redes:
  
 <div> 
   <a href="https://instagram.com/gielth.atelie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
