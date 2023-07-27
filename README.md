@@ -1,5 +1,5 @@
 ### Bem-vindo(a) ao perfil do Gielth 😁
-https://github.com/Gielth/frontendmentor-rock-paper-scissors
+
  <div>
    <a href="https://github.com/Gielth">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gielth&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -25,11 +25,6 @@ https://github.com/Gielth/frontendmentor-rock-paper-scissors
   <a href="https://www.linkedin.com/in/gielth" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gielth/Gielth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gielth/Gielth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gielth/Gielth/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
